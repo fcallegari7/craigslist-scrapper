@@ -1,0 +1,16 @@
+{
+  "name": "craigslist-scrapper",
+  "version": "1.0.0",
+  "description": "Craigslist Scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Callegari",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.0",
+    "node-fetch": "^2.6.11",
+    "nodemailer": "^6.9.3"
+  }
+}
